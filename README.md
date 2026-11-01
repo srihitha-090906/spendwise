@@ -2,9 +2,9 @@
 
 A full-stack web app that helps people record daily expenses, filter them by category, and see where their money goes.
 
-**Live app:** `PASTE_CLIENT_VERCEL_LINK`
-**API:** `PASTE_SERVER_VERCEL_LINK`
-**GitHub:** `PASTE_GITHUB_REPO_LINK`
+**Live app:** https://spendwise-three-tau.vercel.app
+**API:** https://spendwise-api-seven.vercel.app
+**GitHub:** `https://github.com/srihitha-090906/spendwise
 
 ## Problem statement
 Many students and families lose track of small daily spending. SpendWise gives a simple place to log each expense, edit mistakes, delete entries, and view totals per category.
