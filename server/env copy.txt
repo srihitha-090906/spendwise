@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://sboddala2_db_user:PTOWh2oU8z213Lsx@cluster0.fk2lxpw.mongodb.net/spendwise?retryWrites=true&w=majority
+PORT=5000
